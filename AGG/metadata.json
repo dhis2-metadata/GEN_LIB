@@ -1,0 +1,79 @@
+{
+    "categoryOptionGroups": [],
+    "categoryOptions": [],
+    "dataElementGroups": [],
+    "dataElements": [],
+    "indicatorGroups": [],
+    "indicatorTypes": [],
+    "indicators": [],
+    "optionSets": [],
+    "options": [],
+    "package": {
+        "DHIS2Build": "a4a7a9d",
+        "DHIS2Version": "2.37.7",
+        "code": "GEN_LIB_AGG",
+        "description": "",
+        "lastUpdated": "20220321T145450",
+        "locale": "en",
+        "name": "GEN_LIB_AGG_GEN_DHIS2.37.7-en",
+        "type": "GEN",
+        "version": ""
+    },
+    "trackedEntityAttributes": [],
+    "trackedEntityTypes": [],
+    "users": [
+        {
+            "attributeValues": [],
+            "dataViewOrganisationUnits": [],
+            "externalAccess": false,
+            "favorite": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "name": "package admin",
+            "organisationUnits": [],
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "translations": [],
+            "userAccesses": [],
+            "userCredentials": {
+                "attributeValues": [],
+                "catDimensionConstraints": [],
+                "cogsDimensionConstraints": [],
+                "disabled": false,
+                "externalAccess": false,
+                "externalAuth": false,
+                "favorite": false,
+                "favorites": [],
+                "id": "MMRO6oP1HQg",
+                "invitation": false,
+                "lastLogin": "2020-04-23T09:17:46.912",
+                "name": "package admin",
+                "passwordLastUpdated": "2019-10-16T12:06:30.668",
+                "selfRegistered": false,
+                "sharing": {
+                    "external": false,
+                    "userGroups": {},
+                    "users": {}
+                },
+                "translations": [],
+                "twoFA": false,
+                "userAccesses": [],
+                "userGroupAccesses": [],
+                "userInfo": {
+                    "id": "vUeLeQMSwhN"
+                },
+                "userRoles": [
+                    {
+                        "id": "yrB6vc5Ip3r"
+                    }
+                ],
+                "username": "package_admin"
+            }
+        }
+    ]
+}
