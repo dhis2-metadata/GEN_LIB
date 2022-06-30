@@ -1,0 +1,1662 @@
+{
+    "attributes": [],
+    "categoryOptionGroups": [],
+    "categoryOptions": [],
+    "dataElementGroups": [],
+    "dataElements": [],
+    "indicatorGroups": [],
+    "indicatorTypes": [],
+    "indicators": [],
+    "optionSets": [
+        {
+            "attributeValues": [],
+            "code": "SEX",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "WDUwjiW2rGH",
+            "name": "GEN - Sex",
+            "options": [
+                {
+                    "id": "FKKrOBBFgs1"
+                },
+                {
+                    "id": "Ii4IxCLWEFn"
+                }
+            ],
+            "publicAccess": "rw------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Jinsi"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Jenis Kelamin"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kjønn"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pohlaví"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Жинси"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe à la naissance"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Пол"
+                },
+                {
+                    "locale": "de",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo"
+                }
+            ],
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "TEXT",
+            "version": 17
+        }
+    ],
+    "options": [
+        {
+            "attributeValues": [],
+            "code": "FEMALE",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "FKKrOBBFgs1",
+            "name": "Female",
+            "optionSet": {
+                "id": "WDUwjiW2rGH"
+            },
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "sortOrder": 1,
+            "translations": [
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "إناث"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Аёл"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "إناث"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kvinne"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "إناث"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Feminino"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Женский"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Féminin"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "إناث"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Femenino"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "ženský"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Аyol"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Wanita"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Femenino"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        },
+        {
+            "attributeValues": [],
+            "code": "MALE",
+            "externalAccess": false,
+            "favorite": false,
+            "id": "Ii4IxCLWEFn",
+            "name": "Male",
+            "optionSet": {
+                "id": "WDUwjiW2rGH"
+            },
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "sortOrder": 2,
+            "translations": [
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "muž"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "мужской"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Erkak"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Laki-laki"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Эркак"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "ذكور"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Masculin"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Masculino"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Mann"
+                }
+            ],
+            "userAccesses": [],
+            "userGroupAccesses": []
+        }
+    ],
+    "package": {
+        "DHIS2Build": "23c23c5",
+        "DHIS2Version": "2.38.0",
+        "code": "GEN_LIB_CORE",
+        "description": "",
+        "lastUpdated": "20220531T141555",
+        "locale": "en",
+        "name": "GEN_LIB_CORE_DHIS2.38.0-en",
+        "type": "GEN",
+        "version": ""
+    },
+    "trackedEntityAttributes": [
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "ADDRESS",
+            "confidential": false,
+            "description": "Current address of the patient or case.",
+            "dimensionItem": "A6Hb0Kvg4vb",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Current address",
+            "generated": false,
+            "id": "A6Hb0Kvg4vb",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - Address (current)",
+            "optionSetValue": false,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Address (current)",
+            "skipSynchronization": false,
+            "translations": [
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Adresse locale"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Direccion"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Adresse locale"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Direccion local"
+                }
+            ],
+            "unique": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "LONG_TEXT"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "code": "PHONE_LOCAL",
+            "confidential": false,
+            "description": "Local mobile phone or landline number to contact the client.",
+            "dimensionItem": "fctSQp5nAYl",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Contact phone number (local)",
+            "generated": false,
+            "id": "fctSQp5nAYl",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - Contact phone number (local)",
+            "optionSetValue": false,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Phone number",
+            "skipSynchronization": false,
+            "translations": [
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Номер телефона"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Numéro de téléphone"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Numéro de téléphone mobile ou fixe local pour contacter le client."
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Telefon raqami"
+                },
+                {
+                    "locale": "cs",
+                    "property": "FORM_NAME",
+                    "value": "Kontaktní telefonní číslo (místní)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Numéro de téléphone de contact (local)"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "GEN - Numéro de téléphone de contact (local)"
+                },
+                {
+                    "locale": "es",
+                    "property": "FORM_NAME",
+                    "value": "Número de teléfono de contacto (local)"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Número de teléfono"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "FORM_NAME",
+                    "value": "Número de teléfono de contacto (local)"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Telefon raqami"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Telefonní číslo"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Número de teléfono"
+                }
+            ],
+            "unique": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "PHONE_NUMBER"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "code": "PATINFO_DOB",
+            "confidential": false,
+            "description": "Date of birth. This field can also be used when the date of birth is estimated, in conjunction with another TEA that indicates whether the birth date is estimated.",
+            "dimensionItem": "NI0QRzJvQ0k",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Date of Birth",
+            "generated": false,
+            "id": "NI0QRzJvQ0k",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - Date of birth",
+            "optionSetValue": false,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Date of birth",
+            "skipSynchronization": false,
+            "translations": [
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Data de nascimento"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Datum narození"
+                },
+                {
+                    "locale": "ru",
+                    "property": "FORM_NAME",
+                    "value": "Дата рождения"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "FORM_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "GEN - Date de naissance"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Date de naissance"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Data de nascimento"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "Fødselsdato"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Fecha de Nacimiento"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "FORM_NAME",
+                    "value": "Fecha de Nacimiento"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "FORM_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Date de naissance"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Date de naissance. Ce champ peut également être utilisé lorsque la date de naissance est estimée, conjointement avec un autre TEA qui indique si la date de naissance est estimée."
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "FORM_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Data de nascimento"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Tugʼilgan sana"
+                },
+                {
+                    "locale": "ar",
+                    "property": "FORM_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "nb",
+                    "property": "FORM_NAME",
+                    "value": "Fødselsdato"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Tugʼilgan sana"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Data de nascimento"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Дата рождения"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "تاريخ الميلاد"
+                },
+                {
+                    "locale": "es",
+                    "property": "FORM_NAME",
+                    "value": "Fecha de Nacimiento"
+                },
+                {
+                    "locale": "cs",
+                    "property": "FORM_NAME",
+                    "value": "Datum narození"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Fecha de Nacimiento"
+                }
+            ],
+            "unique": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "DATE"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "code": "FAMILY_NAME",
+            "confidential": false,
+            "description": "Family name or last name of the patient of case.",
+            "dimensionItem": "ENRjVGxVL6l",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Last name",
+            "generated": false,
+            "id": "ENRjVGxVL6l",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - Family name",
+            "optionSetValue": false,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Family name",
+            "skipSynchronization": false,
+            "translations": [
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Apellidos"
+                },
+                {
+                    "locale": "cs",
+                    "property": "FORM_NAME",
+                    "value": "Příjmení"
+                },
+                {
+                    "locale": "ru",
+                    "property": "FORM_NAME",
+                    "value": "Фамилия"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "GEN - Nom de famille"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "FORM_NAME",
+                    "value": "الكنية"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "اسم العائلة"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Sobrenome"
+                },
+                {
+                    "locale": "es",
+                    "property": "FORM_NAME",
+                    "value": "Apellido"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "FORM_NAME",
+                    "value": "Familiyasi"
+                },
+                {
+                    "locale": "ar",
+                    "property": "FORM_NAME",
+                    "value": "الكنية"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Nom ou Nom de famille du patient"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Sobrenome"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Фамилия"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Nom de famille"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Příjmení"
+                },
+                {
+                    "locale": "nb",
+                    "property": "FORM_NAME",
+                    "value": "Etternavn"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Nom de famille"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "اسم العائلة"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Apellidos"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "اسم العائلة"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "اسم العائلة"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Фамилия"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Último nome"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "FORM_NAME",
+                    "value": "Apellido"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "FORM_NAME",
+                    "value": "الكنية"
+                },
+                {
+                    "locale": "uz",
+                    "property": "FORM_NAME",
+                    "value": "Фамилияси"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Último nome"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "FORM_NAME",
+                    "value": "الكنية"
+                }
+            ],
+            "unique": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "code": "GIVEN_NAME",
+            "confidential": false,
+            "description": "First name",
+            "dimensionItem": "sB1IHYu2xQT",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "First Name",
+            "generated": false,
+            "id": "sB1IHYu2xQT",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - Given name",
+            "optionSetValue": false,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Given name",
+            "skipSynchronization": false,
+            "sortOrderInListNoProgram": 1,
+            "translations": [
+                {
+                    "locale": "es_US",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Primeiro Nome"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Prénom"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Nome dado"
+                },
+                {
+                    "locale": "pt",
+                    "property": "DESCRIPTION",
+                    "value": "Primeiro nome"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "FORM_NAME",
+                    "value": "Nombre"
+                },
+                {
+                    "locale": "ar",
+                    "property": "FORM_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "ar",
+                    "property": "DESCRIPTION",
+                    "value": "الاسم الاول"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Prénom"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "DESCRIPTION",
+                    "value": "الاسم الاول"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "FORM_NAME",
+                    "value": "Ismi"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "DESCRIPTION",
+                    "value": "الاسم الاول"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "DESCRIPTION",
+                    "value": "الاسم الاول"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Nombre"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "DESCRIPTION",
+                    "value": "Ismi"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Křestní jméno"
+                },
+                {
+                    "locale": "es",
+                    "property": "FORM_NAME",
+                    "value": "Nombre"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "DESCRIPTION",
+                    "value": "Primeiro nome"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Қизлик фаимилияси"
+                },
+                {
+                    "locale": "nb",
+                    "property": "FORM_NAME",
+                    "value": "Fornavn"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Қизлик фаимилияси"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "es",
+                    "property": "DESCRIPTION",
+                    "value": "Nombre"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "GEN - Prénom"
+                },
+                {
+                    "locale": "cs",
+                    "property": "DESCRIPTION",
+                    "value": "Křestní jméno"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Primeiro Nome"
+                },
+                {
+                    "locale": "nb",
+                    "property": "DESCRIPTION",
+                    "value": "Fornavn"
+                },
+                {
+                    "locale": "ru",
+                    "property": "DESCRIPTION",
+                    "value": "Имя"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "FORM_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "uz",
+                    "property": "DESCRIPTION",
+                    "value": "Исми"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Nombre"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Prénom"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "FORM_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "FORM_NAME",
+                    "value": "الاسم"
+                },
+                {
+                    "locale": "ru",
+                    "property": "FORM_NAME",
+                    "value": "Имя"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Nome dado"
+                },
+                {
+                    "locale": "cs",
+                    "property": "FORM_NAME",
+                    "value": "Křestní jméno"
+                },
+                {
+                    "locale": "uz",
+                    "property": "FORM_NAME",
+                    "value": "Исми"
+                }
+            ],
+            "unique": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "NATIONAL_ID",
+            "confidential": false,
+            "description": "Unique identifier for a person that is managed and maintained at the national level; this type of identifier is not programme-specific. This may include, for example, a national health identification number, a national insurance number, or other similar unique identifier. This TEA is intended to be adapted to local context.",
+            "dimensionItem": "Ewi7FUfcHAD",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "National ID",
+            "generated": false,
+            "id": "Ewi7FUfcHAD",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - National ID",
+            "optionSetValue": false,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "r-------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "National ID",
+            "skipSynchronization": false,
+            "translations": [
+                {
+                    "locale": "ar",
+                    "property": "FORM_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "ru",
+                    "property": "FORM_NAME",
+                    "value": "Национальный ИН"
+                },
+                {
+                    "locale": "uz",
+                    "property": "FORM_NAME",
+                    "value": "Миллий идентификацион тартиб рақами"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "FORM_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "FORM_NAME",
+                    "value": "Milliy identifikatsion tartib raqami"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "GEN - Identifiant national"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "FORM_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "ID Nacional"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "číslo Občanského průkazu"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Identidade nacional"
+                },
+                {
+                    "locale": "es",
+                    "property": "FORM_NAME",
+                    "value": "ID Nacional"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Identidade nacional"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "ID national"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "FORM_NAME",
+                    "value": "ID Nacional"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Миллий идентификацион тартиб рақами"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Milliy identifikatsion tartib raqami"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Identifiant unique d'une personne qui est géré et maintenu au niveau national ; ce type d'identifiant n'est pas spécifique à un programme. Il peut s'agir, par exemple, d'un numéro d'identification national de santé, d'un numéro d'assurance national ou d'un autre identifiant unique similaire. Ce TEA est destiné à être adapté au contexte local."
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Identidade nacional"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "FORM_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "ID national"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Национальный ИН"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الهوية الوطنية"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Identidade nacional"
+                },
+                {
+                    "locale": "cs",
+                    "property": "FORM_NAME",
+                    "value": "číslo Občanského průkazu"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "ID Nacional"
+                }
+            ],
+            "unique": true,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "PATINFO_SEX",
+            "confidential": false,
+            "description": "Biological sex or sex assigned at birth (male, female, unknown).",
+            "dimensionItem": "oindugucx72",
+            "dimensionItemType": "PROGRAM_ATTRIBUTE",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "externalAccess": false,
+            "favorite": false,
+            "formName": "Sex",
+            "generated": false,
+            "id": "oindugucx72",
+            "inherit": false,
+            "legendSets": [],
+            "name": "GEN - Sex",
+            "optionSet": {
+                "id": "WDUwjiW2rGH"
+            },
+            "optionSetValue": true,
+            "orgunitScope": false,
+            "pattern": "",
+            "periodOffset": 0,
+            "publicAccess": "r-------",
+            "sharing": {
+                "external": false,
+                "owner": "vUeLeQMSwhN",
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Sex",
+            "skipSynchronization": false,
+            "translations": [
+                {
+                    "locale": "uz_UZ",
+                    "property": "NAME",
+                    "value": "Jinsi"
+                },
+                {
+                    "locale": "cs",
+                    "property": "SHORT_NAME",
+                    "value": "Pohlaví"
+                },
+                {
+                    "locale": "pt",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "id",
+                    "property": "NAME",
+                    "value": "Jenis Kelamin"
+                },
+                {
+                    "locale": "es",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "uz",
+                    "property": "SHORT_NAME",
+                    "value": "Жинси"
+                },
+                {
+                    "locale": "pt",
+                    "property": "FORM_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "FORM_NAME",
+                    "value": "Jinsi"
+                },
+                {
+                    "locale": "de",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "nb",
+                    "property": "FORM_NAME",
+                    "value": "Kjønn"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "uz",
+                    "property": "FORM_NAME",
+                    "value": "Жинси"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "nb",
+                    "property": "NAME",
+                    "value": "Kjønn"
+                },
+                {
+                    "locale": "nb",
+                    "property": "SHORT_NAME",
+                    "value": "Kjønn"
+                },
+                {
+                    "locale": "uz",
+                    "property": "NAME",
+                    "value": "Жинси"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "es_US",
+                    "property": "FORM_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ru",
+                    "property": "FORM_NAME",
+                    "value": "Пол"
+                },
+                {
+                    "locale": "fr",
+                    "property": "SHORT_NAME",
+                    "value": "Sexe"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "FORM_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ar",
+                    "property": "FORM_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ar",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "de",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "de",
+                    "property": "FORM_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ru",
+                    "property": "SHORT_NAME",
+                    "value": "Пол"
+                },
+                {
+                    "locale": "fr",
+                    "property": "FORM_NAME",
+                    "value": "Sexe"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "id",
+                    "property": "SHORT_NAME",
+                    "value": "Jenis Kelamin"
+                },
+                {
+                    "locale": "cs",
+                    "property": "NAME",
+                    "value": "Pohlaví"
+                },
+                {
+                    "locale": "ar",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "fr",
+                    "property": "NAME",
+                    "value": "Sexe à la naissance"
+                },
+                {
+                    "locale": "es",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "SHORT_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "es",
+                    "property": "FORM_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "id",
+                    "property": "FORM_NAME",
+                    "value": "Jenis Kelamin"
+                },
+                {
+                    "locale": "pt",
+                    "property": "NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "fr",
+                    "property": "DESCRIPTION",
+                    "value": "Sexe biologique ou sexe attribué à la naissance (masculin, féminin, inconnu)"
+                },
+                {
+                    "locale": "pt_BR",
+                    "property": "SHORT_NAME",
+                    "value": "Sexo"
+                },
+                {
+                    "locale": "cs",
+                    "property": "FORM_NAME",
+                    "value": "Pohlaví"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "FORM_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ar_IQ",
+                    "property": "FORM_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "uz_UZ",
+                    "property": "SHORT_NAME",
+                    "value": "Jinsi"
+                },
+                {
+                    "locale": "ar_EG",
+                    "property": "FORM_NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ar_SD",
+                    "property": "NAME",
+                    "value": "الجنس"
+                },
+                {
+                    "locale": "ru",
+                    "property": "NAME",
+                    "value": "Пол"
+                }
+            ],
+            "unique": false,
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "Admin WHO",
+                "username": "who"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": [],
+            "valueType": "TEXT"
+        }
+    ],
+    "trackedEntityTypes": [],
+    "users": [
+        {
+            "attributeValues": [],
+            "catDimensionConstraints": [],
+            "cogsDimensionConstraints": [],
+            "dataViewOrganisationUnits": [],
+            "disabled": false,
+            "externalAccess": false,
+            "externalAuth": false,
+            "favorite": false,
+            "firstName": "package",
+            "id": "vUeLeQMSwhN",
+            "invitation": false,
+            "lastLogin": "2020-04-23T09:17:46.912",
+            "name": "package admin",
+            "organisationUnits": [],
+            "passwordLastUpdated": "2019-10-16T12:06:30.668",
+            "selfRegistered": false,
+            "sharing": {
+                "external": false,
+                "userGroups": {},
+                "users": {}
+            },
+            "surname": "admin",
+            "teiSearchOrganisationUnits": [],
+            "translations": [],
+            "twoFA": false,
+            "userAccesses": [],
+            "userCredentials": {
+                "catDimensionConstraints": [],
+                "cogsDimensionConstraints": [],
+                "disabled": false,
+                "externalAuth": false,
+                "invitation": false,
+                "lastLogin": "2020-04-23T09:17:46.912",
+                "passwordLastUpdated": "2019-10-16T12:06:30.668",
+                "previousPasswords": [],
+                "selfRegistered": false,
+                "sharing": {
+                    "external": false,
+                    "userGroups": {},
+                    "users": {}
+                },
+                "twoFA": false,
+                "uid": "vUeLeQMSwhN",
+                "userRoles": [
+                    {
+                        "id": "yrB6vc5Ip3r"
+                    }
+                ],
+                "username": "package_admin"
+            },
+            "userRoles": [
+                {
+                    "id": "yrB6vc5Ip3r"
+                }
+            ],
+            "username": "package_admin"
+        }
+    ]
+}
