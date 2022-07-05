@@ -36914,64 +36914,12 @@
                     "value": "شخص"
                 }
             ],
-            "users": [
-                {
-                    "attributeValues": [],
-                    "catDimensionConstraints": [],
-                    "cogsDimensionConstraints": [],
-                    "dataViewOrganisationUnits": [],
-                    "disabled": false,
-                    "externalAccess": false,
-                    "externalAuth": false,
-                    "favorite": false,
-                    "firstName": "package",
-                    "id": "vUeLeQMSwhN",
-                    "invitation": false,
-                    "lastLogin": "2020-04-23T09:17:46.912",
-                    "name": "package admin",
-                    "organisationUnits": [],
-                    "passwordLastUpdated": "2019-10-16T12:06:30.668",
-                    "selfRegistered": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "surname": "admin",
-                    "teiSearchOrganisationUnits": [],
-                    "translations": [],
-                    "twoFA": false,
-                    "userAccesses": [],
-                    "userCredentials": {
-                        "catDimensionConstraints": [],
-                        "cogsDimensionConstraints": [],
-                        "disabled": false,
-                        "externalAuth": false,
-                        "invitation": false,
-                        "lastLogin": "2020-04-23T09:17:46.912",
-                        "passwordLastUpdated": "2019-10-16T12:06:30.668",
-                        "previousPasswords": [],
-                        "selfRegistered": false,
-                        "sharing": {
-                            "external": false,
-                            "userGroups": {},
-                            "users": {}
-                        },
-                        "twoFA": false,
-                        "uid": "vUeLeQMSwhN",
-                        "userRoles": [
-                            {
-                                "id": "yrB6vc5Ip3r"
-                            }
-                        ],
-                        "username": "package_admin"
-                    },
-                    "userRoles": [
-                        {
-                            "id": "yrB6vc5Ip3r"
-                        }
-                    ],
-                    "username": "package_admin"
-                }
-            ]
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
+    ]        }
