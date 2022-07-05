@@ -37026,59 +37026,12 @@
                     "value": "شخص"
                 }
             ],
-            "users": [
-                {
-                    "attributeValues": [],
-                    "dataViewOrganisationUnits": [],
-                    "externalAccess": false,
-                    "favorite": false,
-                    "firstName": "package",
-                    "id": "vUeLeQMSwhN",
-                    "name": "package admin",
-                    "organisationUnits": [],
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "surname": "admin",
-                    "teiSearchOrganisationUnits": [],
-                    "translations": [],
-                    "userAccesses": [],
-                    "userCredentials": {
-                        "attributeValues": [],
-                        "catDimensionConstraints": [],
-                        "cogsDimensionConstraints": [],
-                        "disabled": false,
-                        "externalAccess": false,
-                        "externalAuth": false,
-                        "favorite": false,
-                        "favorites": [],
-                        "id": "MMRO6oP1HQg",
-                        "invitation": false,
-                        "lastLogin": "2020-04-23T09:17:46.912",
-                        "name": "package admin",
-                        "passwordLastUpdated": "2019-10-16T12:06:30.668",
-                        "selfRegistered": false,
-                        "sharing": {
-                            "external": false,
-                            "userGroups": {},
-                            "users": {}
-                        },
-                        "translations": [],
-                        "twoFA": false,
-                        "userAccesses": [],
-                        "userGroupAccesses": [],
-                        "userInfo": {
-                            "id": "vUeLeQMSwhN"
-                        },
-                        "userRoles": [
-                            {
-                                "id": "yrB6vc5Ip3r"
-                            }
-                        ],
-                        "username": "package_admin"
-                    }
-                }
-            ]
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
+    ]        }

@@ -1763,61 +1763,12 @@
                     "value": "شخص"
                 }
             ],
-            "users": [
-                {
-                    "attributeValues": [],
-                    "dataViewOrganisationUnits": [],
-                    "externalAccess": false,
-                    "favorite": false,
-                    "firstName": "package",
-                    "id": "vUeLeQMSwhN",
-                    "name": "package admin",
-                    "organisationUnits": [],
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "surname": "admin",
-                    "teiSearchOrganisationUnits": [],
-                    "translations": [],
-                    "userAccesses": [],
-                    "userCredentials": {
-                        "attributeValues": [],
-                        "catDimensionConstraints": [],
-                        "cogsDimensionConstraints": [],
-                        "disabled": true,
-                        "externalAccess": false,
-                        "externalAuth": false,
-                        "favorite": false,
-                        "favorites": [],
-                        "id": "MMRO6oP1HQg",
-                        "invitation": false,
-                        "lastLogin": "2018-07-13T12:28:39.168",
-                        "name": "package admin",
-                        "passwordLastUpdated": "2018-07-13T12:28:39.168",
-                        "selfRegistered": false,
-                        "sharing": {
-                            "external": false,
-                            "userGroups": {},
-                            "users": {}
-                        },
-                        "translations": [],
-                        "twoFA": false,
-                        "user": {
-                            "displayName": "package admin",
-                            "id": "vUeLeQMSwhN",
-                            "name": "package admin",
-                            "username": "package_admin"
-                        },
-                        "userAccesses": [],
-                        "userGroupAccesses": [],
-                        "userInfo": {
-                            "id": "vUeLeQMSwhN"
-                        },
-                        "userRoles": [],
-                        "username": "package_admin"
-                    }
-                }
-            ]
+            "user": {
+                "id": "vUeLeQMSwhN",
+                "name": "package admin",
+                "username": "package_admin"
+            },
+            "userAccesses": [],
+            "userGroupAccesses": []
         }
+    ]        }
