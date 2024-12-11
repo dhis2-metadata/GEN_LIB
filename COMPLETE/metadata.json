@@ -4,6 +4,8 @@
     "DHIS2Version": "2.39.6",
     "code": "GEN_LIB",
     "description": "Common Metadata Library",
+    "healthAreaCode": "GEN",
+    "healthAreaName": "Common Metadata Library",
     "lastUpdated": "2024-11-15",
     "locale": "en",
     "name": "GEN_LIB_DHIS2.39-en",
