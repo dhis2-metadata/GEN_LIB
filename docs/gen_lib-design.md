@@ -1,4 +1,4 @@
-# Common Metadata Library {v#gen-lib-design }
+# Common Metadata Library { #gen-lib-design }
 
 ## Introduction
 
