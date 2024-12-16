@@ -1,6 +1,6 @@
 {
   "package": {
-    "DHIS2Build": "a13bccd",
+    "DHIS2Build": "a13bcce",
     "DHIS2Version": "2.40.6",
     "code": "GEN_LIB",
     "description": "Common Metadata Library",
